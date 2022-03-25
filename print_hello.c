@@ -3,7 +3,7 @@
 int main ()
 {
     
-    printf(" \t hello i'm naresh kansara");
+    // printf(" \t hello i'm naresh kansara");
     
 
 }
